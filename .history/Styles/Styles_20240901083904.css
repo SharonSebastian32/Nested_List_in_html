@@ -38,7 +38,7 @@ body{
 
    /* iPhone 13 and similar (width: 390px) */
    @media (max-width: 390px) {
-    div{
+       .hover-box {
            width: 140px;
            height: 140px;
            font-size: 14px;
@@ -60,15 +60,5 @@ body{
            width: 120px;
            height: 120px;
            font-size: 12px;
-       }
-   }
-
-
-
-   @media (min-width: 768px) and (max-width: 1024px) {
-      div{
-           width: 180px;
-           height: 180px;
-           font-size: 18px;
        }
    }

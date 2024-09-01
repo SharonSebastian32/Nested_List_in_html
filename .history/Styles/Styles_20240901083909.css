@@ -62,13 +62,3 @@ body{
            font-size: 12px;
        }
    }
-
-
-
-   @media (min-width: 768px) and (max-width: 1024px) {
-      div{
-           width: 180px;
-           height: 180px;
-           font-size: 18px;
-       }
-   }
